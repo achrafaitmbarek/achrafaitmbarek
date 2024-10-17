@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 </div>
 
+## 🚀 Employment Update
+
+I am now employed with ELOKEN company. You can find my contribution statistics on [GitHub ACHRAF](https://github.com/MigosAchraf).
+
 ## 👨‍🚀 Mission Control
 
 🔭 **Current Mission:** Seeking an exciting work-study adventure in web development!
