@@ -11,7 +11,7 @@ I am now employed with ELOKEN company. You can find my contribution statistics o
 ## 👨‍🚀 Mission Control
 
 🔭 **Current Mission:** Seeking an exciting work-study adventure in web development!
-🌱 **Expanding Knowledge:** Venturing into the Vue.js nebula and exploring the Nest.js galaxy
+🌱 **Expanding Knowledge:** Venturing into the Angular and exploring the Nest.js galaxy
 📡 **Communication Channel:** *the-crazy-achraf@hotmail.com*
 
 ## 🛸 Spacecraft Technologies
